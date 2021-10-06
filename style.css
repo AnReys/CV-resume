@@ -48,7 +48,7 @@ body,html{
 }
 
 .intro{
-	height: 100vh;
+	height: 100%;
 	background-image: url(images/me_small.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
