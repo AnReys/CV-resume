@@ -2,7 +2,6 @@
 	padding: 0;
 	margin:0;
 	font-family: 'Montserrat', sans-serif;
-	box-sizing: border-box;
 }
 body,html{
 	color: #fff;
@@ -50,7 +49,6 @@ body,html{
 
 .intro{
 	height: 100%;
-	width: 100%;
 	background-image: url(images/me_small.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
